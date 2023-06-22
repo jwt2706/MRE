@@ -1,0 +1,3 @@
+title=audioplayer 
+author=engineeringlads
+orientation=portrait
